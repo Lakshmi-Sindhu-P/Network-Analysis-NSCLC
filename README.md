@@ -140,7 +140,3 @@ If repeated:
 
 ---
 
-## 💾 Output File
-
-```bash
-nslc_interactions.csv
